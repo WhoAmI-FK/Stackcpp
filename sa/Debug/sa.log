@@ -1,0 +1,3 @@
+﻿  sa.cpp
+C:\Users\User\source\repos\sa\sa\sa.cpp(100): warning C4715: Stack<int>::operator=: значение возвращается не при всех путях выполнения
+  sa.vcxproj -> C:\Users\User\source\repos\sa\Debug\sa.exe
